@@ -4,3 +4,8 @@ body {
   color: seashell;
   opacity: 0.9;
 }
+.header {
+  height: 69px;
+  width: 100%;
+  border-bottom: 1px solid seashell;
+}
