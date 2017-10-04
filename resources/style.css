@@ -9,7 +9,3 @@ body {
   width: 100%;
   border-bottom: 1px solid seashell;
 }
-#logo {
-  background: url (resources/images/img-tea-cozy-logo.png);
-  height: 50px;
-}
