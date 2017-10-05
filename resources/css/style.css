@@ -17,5 +17,8 @@ body {
   margin-left: 10px;
 }
 .header nav {
-  
+  color: seashell;
+  align-items: center;
+  display: flex;
+  margin-right: 10px;
 }
