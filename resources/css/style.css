@@ -5,18 +5,18 @@ body {
   opacity: 0.9;
   font-size: 22px;
 }
-header {
+.header {
   height: 69px;
   width: 100%;
   border-bottom: 1px solid seashell;
   position: fixed;
   justify-content: space-between;
 }
-header img {
+.header img {
   height: 50px;
   margin-left: 10px;
 }
-header nav {
+.header nav {
   color: seashell;
   align-items: center;
   display: flex;
